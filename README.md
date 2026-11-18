@@ -2,7 +2,7 @@
 
 ### Cybersecurity Analyst | Application Security | VAPT | Cloud Security
 
-I'm a Cybersecurity Analyst with **1.2+ years of professional experience** in Web Application Security, API Penetration Testing and Vulnerability Assessment.
+I'm a Cybersecurity Analyst with **1.3+ years of professional experience** in Web Application Security, API Penetration Testing and Vulnerability Assessment.
 
 I enjoy identifying security weaknesses, understanding how applications can be exploited, and translating technical findings into actionable security improvements.
 
@@ -38,13 +38,7 @@ Currently exploring **Product Security, Secure Code Review, Cloud Security and A
 
 ### 🚀 Featured Projects
 
-**1. Unified Host & Web Log Monitoring with Alerting in Splunk**
-- Built a centralized log monitoring environment using Splunk.
-- Implemented Linux host and Apache web log analysis.
-- Developed custom alerts, dashboards, reports and field extractions.
-- Implemented sensitive data masking for security and compliance.
-
-**2. Machine Learning-Driven Android Malware Detection**
+**1. Machine Learning-Driven Android Malware Detection**
 - Developed an ML-based Android malware detection approach.
 - Compared XGBoost, KNN and Naive Bayes classifiers.
 - Achieved 96.04% accuracy using XGBoost.
@@ -70,11 +64,6 @@ Currently exploring **Product Security, Secure Code Review, Cloud Security and A
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarvXs&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarvXs&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
